@@ -1,6 +1,3 @@
-# css-corp-batch-2
-Javascript, Advance Javascript, React, Mobx, Redux, Node.js
-
 const express = require('express');
 const app = express()
 const port = 4500
@@ -110,5 +107,4 @@ function filterItems(data) {
     return previousValue;
   }, {});
 }
-
 
